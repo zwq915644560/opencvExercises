@@ -5,5 +5,4 @@
 #ignore .o
 *.o
 #ignore video and picture
-*.mp4
-*.jpg
+material
