@@ -5,6 +5,6 @@
 #ignore .o
 *.o
 #ignore video and picture
-material/
+materials/
 
 .gitignore
